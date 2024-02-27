@@ -4,11 +4,11 @@ Hi 👋 My name is Ananthu Krishnan R
 Web Developer
 -------------
 
-I've started my career as a Python Django developer. Curretly learning Angular for frontend development
+I've started my career as a Python Django developer. Curretly learning React for frontend development
 
 *   🌍  I'm based in Kochi, India
 *   ✉️  You can contact me at [dev.ananthu.krishnan@gmail.com](mailto:dev.ananthu.krishnan@gmail.com)
-*   🧠  I'm learning Angular
+*   🧠  I'm learning React
 *   🤝  I'm open to collaborating on Django projects
 *   ⚡  I'm a Gamer too, usually plays Valorant as Wrath Shadow
 
